@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>24Productions</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+   
+   <header>
+        <nav>
+            <ul>
+                <li> <a href="index.html">Home</a> </li>
+                <li> <a href="clubs.html">Portfolio</a> </li>
+                <li> <a href="login.html">About me</a> </li>
+                <li> <a href="login.html">Contact</a> </li>
+            </ul>
+        </nav>
+    </header>
+    
+    <article>
+       <p>Dit is een project etc</p>
+        <iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/Z-Pq3HM0uB4" frameborder="0" allowfullscreen></iframe>
+    </article>
+     <article class="tweede">
+       <p>Dit is een project etc</p>
+        <iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/Z-Pq3HM0uB4" frameborder="0" allowfullscreen></iframe>
+    </article>
+    
+    <article>
+       <p>Dit is een project etc</p>
+        <iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/Z-Pq3HM0uB4" frameborder="0" allowfullscreen></iframe>
+    </article>
+     <article class="tweede">
+       <p>Dit is een project etc</p>
+        <iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/Z-Pq3HM0uB4" frameborder="0" allowfullscreen></iframe>
+    </article>
+    
+    <article>
+       <p>Dit is een project etc</p>
+        <iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/Z-Pq3HM0uB4" frameborder="0" allowfullscreen></iframe>
+    </article>
+     <article class="tweede">
+       <p>Dit is een project etc</p>
+        <iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/Z-Pq3HM0uB4" frameborder="0" allowfullscreen></iframe>
+    </article>
+    
+</body>
+</html>

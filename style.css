@@ -1,0 +1,45 @@
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    color: lightgrey;
+    background-color: darkgray;
+    display: flex;
+}
+
+a {
+    display: block;
+    color: gray;
+    text-align: center;
+    padding: 1em 1.1em;
+    text-decoration: none;
+    font-family: "Nexa-Bold";
+    font-weight: bold;
+    font-family: 'Cabin', sans-serif;
+}
+
+body > header li a:hover:not(.active) {
+    color: white;
+}
+
+body > header li a.active {
+    color: #2800a0;
+}
+
+
+iframe {
+  
+    width: 50%;
+    
+}
+
+div {
+     display: flex;
+    flex-direction: row;
+    margin: 1em;
+    justify-content: space-around;
+}
+
+    
